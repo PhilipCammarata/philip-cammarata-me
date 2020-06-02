@@ -1,0 +1,21 @@
+baseURL = "https://philip.cammarata.me"
+title = "Philip Cammarata"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+enableGitInfo = true
+
+[params]
+  description = "Writing it down makes it real description."
+  copyright = "&copy; 2020 Philip Cammarata"
+  dark = "auto"
+  highlight = true
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
