@@ -7,6 +7,8 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 enableGitInfo = true
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 [params]
   description = "Writing it down makes it real description."
   copyright = "&copy; 2020 Philip Cammarata"
