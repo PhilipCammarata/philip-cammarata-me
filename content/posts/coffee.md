@@ -21,10 +21,11 @@ I like coffee and I like trying to make better coffee.
 
 * https://mildfirecoffeeroasters.com/
 * https://pulp.coffee/
-* https://shotgunhouseroasters.com/
+* [Shotgun House Coffee Roasters](https://shotgunhouseroasters.com/) - Very cool place.
 * https://browncoffeeco.com/
 * https://www.quantumcoffeesa.com/
-* https://www.sacoffeeroasters.com/
+* [What's Brewing?](https://www.sacoffeeroasters.com/) - Visited but didn't go inside or drink the coffee yet.
+* [Coffee Me Crazy](http://www.coffeemecrazy.org/) - Cannot recommend.
 
 
 ### Japanese Iced Coffee
