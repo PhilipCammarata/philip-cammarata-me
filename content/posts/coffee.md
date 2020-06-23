@@ -13,6 +13,8 @@ I like coffee and I like trying to make better coffee.
 | Counter Culture | Apollo | Water got stuck no matter the grind setting. | 2 |
 | Dunkin' | Original Blend | My favorite "big coffee" brand. | 4 |
 | Shotgun House Roasters | Brazil Cafe Delas - Dark Roast | Very good.  Would get again for sure. | 5 |
+| Shotgun House Roasters | Papau New Guinea - Tumbuna | Unique flavor for sure. | 4 |
+| Shotgun House Roasters | Colombia - Timana | Shotgun house is great. | 5 |
 
 
 ### Coffee to find
